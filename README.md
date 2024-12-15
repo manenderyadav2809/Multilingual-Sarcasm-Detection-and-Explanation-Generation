@@ -30,8 +30,6 @@ Run the script to train the model:
 bash
 Copy code
 python bert_head_final.py
-3. Skip Training
-If you want to skip the training step and use pre-trained model weights, comment out the training code and download the pre-trained model weights: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/ankit_makhija_students_iiit_ac_in/Ekz0Cy9LzA9IvtiQQqkZ0bgBWVmj_1ZrAj9hAGM9oNNu3Q?e=uKbGNc
 
 Download Pre-trained Weights:
 Pre-trained Model Weights
